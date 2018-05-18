@@ -1,2 +1,0 @@
-# blog
-hexo博客
